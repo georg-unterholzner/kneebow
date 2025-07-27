@@ -2,9 +2,9 @@
 
 Find the knee of a curve or the elbow of a curve.
 
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/3baba89ac29b4a96bd990148deb36236)](https://www.codacy.com/app/georg-un/kneebow?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=georg-un/kneebow&amp;utm_campaign=Badge_Grade)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/3baba89ac29b4a96bd990148deb36236)](https://app.codacy.com/gh/georg-un/kneebow/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
 [![CircleCI](https://dl.circleci.com/status-badge/img/circleci/4aoB5zgq98chQxQUq76hUV/WuhJ6RPV6Wmi5yTGwuVZeZ/tree/master.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/circleci/4aoB5zgq98chQxQUq76hUV/WuhJ6RPV6Wmi5yTGwuVZeZ/tree/master)
-[![codecov](https://codecov.io/gh/georg-un/kneebow/branch/master/graph/badge.svg)](https://codecov.io/gh/georg-un/kneebow)
+[![codecov](https://codecov.io/gh/georg-unterholzner/kneebow/branch/master/graph/badge.svg)](https://codecov.io/gh/georg-unterholzner/kneebow)
 
 ## How it works
 
