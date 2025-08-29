@@ -23,7 +23,7 @@ pip install kneebow
 Alternatively, you can also install the latest version from GitHub:
 
 ```sh
-pip install git+https://github.com/georg-un/kneebow.git
+pip install git+https://github.com/georg-unterholzner/kneebow.git
 ```
 
 ## Usage
