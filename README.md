@@ -70,7 +70,7 @@ If you need to cite this package, you can do so as follows:
   title={ {kneebow}: Knee or elbow detection for curves},
   author={Georg Unterholzner},
   year={2019},
-  howpublished={\url{https://github.com/georg-un/kneebow}},
+  howpublished={\url{https://github.com/georg-unterholzner/kneebow}},
 }
 ```
 
@@ -79,7 +79,7 @@ If you need to cite this package, you can do so as follows:
 ### APA/Harvard
 
 ```text
-Georg Unterholzner. (2019). kneebow: Knee or elbow detection for curves. https://github.com/georg-un/kneebow.
+Georg Unterholzner. (2019). kneebow: Knee or elbow detection for curves. https://github.com/georg-unterholzner/kneebow.
 ```
 
 

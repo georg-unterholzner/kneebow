@@ -5,9 +5,9 @@ with open('README.md') as f:
 
 setup(
     name='kneebow',
-    version='1.0.3',
+    version='1.0.4',
     packages=['kneebow'],
-    url='https://github.com/georg-un/kneebow',
+    url='https://github.com/georg-unterholzner/kneebow',
     license='MIT',
     author='Georg Unterholzner',
     author_email='georg.unterholzner.coding@gmail.com',
@@ -15,7 +15,7 @@ setup(
     long_description=long_description,
     long_description_content_type='text/markdown',
     install_requires=['numpy', 'matplotlib', 'scikit-learn'],
-    download_url='https://github.com/georg-un/kneebow/archive/v1.0.3.tar.gz',
+    download_url='https://github.com/georg-unterholzner/kneebow/archive/v1.0.4.tar.gz',
     python_requires='>=3.4',
     classifiers=[
         'Development Status :: 5 - Production/Stable',
